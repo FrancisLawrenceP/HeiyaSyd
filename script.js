@@ -26,7 +26,7 @@ The love I dared not to conceive
 Was shining in your earthly eyes.`,
     gradientFrom: "rgba(76, 175, 80, 0.8)",
     gradientTo: "rgba(46, 125, 50, 0.9)",
-    publishedDate: "January 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 2,
@@ -54,7 +54,7 @@ Sa piling mo, lahat ay nag-iba—
 Dahil sa 'yo, ang mundo ko'y payapa.`,
     gradientFrom: "rgba(56, 142, 60, 0.8)",
     gradientTo: "rgba(129, 199, 132, 0.9)",
-    publishedDate: "January 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 3,
@@ -82,7 +82,7 @@ Time did not dull, but gave us grace—
 To know, to trust, to never hide.`,
     gradientFrom: "rgba(129, 199, 132, 0.8)",
     gradientTo: "rgba(27, 94, 32, 0.9)",
-    publishedDate: "February 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 4,
@@ -110,7 +110,7 @@ Sa bawat dasal at salita ng pananalig,
 Ang puso mo ang tahanan ng pag-ibig.`,
     gradientFrom: "rgba(67, 160, 71, 0.8)",
     gradientTo: "rgba(46, 125, 50, 0.9)",
-    publishedDate: "February 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 5,
@@ -138,7 +138,7 @@ You turned my dusk to sacred art,
 And made the stars themselves align.`,
     gradientFrom: "rgba(102, 187, 106, 0.8)",
     gradientTo: "rgba(56, 142, 60, 0.9)",
-    publishedDate: "March 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 6,
@@ -166,7 +166,7 @@ Dahil sa piling mong may pagmamahal,
 Tama ka—ikaw ang aking tahanan.`,
     gradientFrom: "rgba(46, 125, 50, 0.8)",
     gradientTo: "rgba(129, 199, 132, 0.9)",
-    publishedDate: "March 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 7,
@@ -194,7 +194,7 @@ Nicole, my heart was built to know
 The love in you—the you inside.`,
     gradientFrom: "rgba(139, 195, 74, 0.8)",
     gradientTo: "rgba(85, 139, 47, 0.9)",
-    publishedDate: "March 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 8,
@@ -222,7 +222,7 @@ Sapat na ang iyong mga mata—
 Upang mapawi ang bawat panimdim.`,
     gradientFrom: "rgba(56, 142, 60, 0.8)",
     gradientTo: "rgba(129, 199, 132, 0.9)",
-    publishedDate: "April 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 9,
@@ -250,7 +250,7 @@ It's you beside me, face to face,
 When love has won its final fight.`,
     gradientFrom: "rgba(76, 175, 80, 0.8)",
     gradientTo: "rgba(27, 94, 32, 0.9)",
-    publishedDate: "April 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 10,
@@ -278,7 +278,7 @@ Ikaw ang awit ng puso kong payapa,
 Ang ganda mong di kayang itago.`,
     gradientFrom: "rgba(129, 199, 132, 0.8)",
     gradientTo: "rgba(46, 125, 50, 0.9)",
-    publishedDate: "April 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 11,
@@ -306,7 +306,7 @@ If I must kneel to make it known,
 Then let me kneel and let you glow.`,
     gradientFrom: "rgba(85, 139, 47, 0.8)",
     gradientTo: "rgba(46, 125, 50, 0.9)",
-    publishedDate: "May 2024"
+    publishedDate: "April 2025"
   },
   {
     id: 12,
@@ -334,7 +334,7 @@ Maglilingkod tayo habang-buhay,
 Hanggang langit, sabay nating marating.`,
     gradientFrom: "rgba(56, 142, 60, 0.8)",
     gradientTo: "rgba(27, 94, 32, 0.9)",
-    publishedDate: "May 2024"
+    publishedDate: "April 2025"
   }
 ];
 
