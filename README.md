@@ -39,7 +39,3 @@ Contributions to HeiyaSyd are welcome! If you have suggestions for improvements 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-*Note: This `README.md` is based on the current structure of the repository. For more detailed information or specific questions, please refer to the source code or contact the repository owner.*
-
